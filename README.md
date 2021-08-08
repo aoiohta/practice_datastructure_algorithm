@@ -1,1 +1,3 @@
 # practice_datastructure_algorithm
+
+データ構造とアルゴリズムの練習プログラム置き場
